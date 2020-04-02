@@ -1,7 +1,6 @@
 # ML_Projects
 Those projects are implemented during the eCornell Machine Learning Certicate program.
 
-Please view the ipynb file with "raw" view
 
 7 Required courses:
 
